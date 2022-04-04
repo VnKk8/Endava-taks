@@ -29,4 +29,4 @@ After completion of this guide you need to open IntelliJ and load resources from
 
 - Click right button and select `Run 'Application'`
 
-==========Congratulations, you are running User API now==========
+==========Congratulations, you are running Supermarket API now==========
