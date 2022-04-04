@@ -19,7 +19,7 @@ After completion of this guide you need to open IntelliJ and load resources from
 
 - ```
   spring.jpa.hibernate.ddl-auto=create
-  spring.datasource.url=jdbc:mysql://localhost:3306/user_db?createDatabaseIfNotExist=true
+  spring.datasource.url=jdbc:mysql://localhost:3306/supermarket_db?createDatabaseIfNotExist=true
   spring.datasource.username= YOUR_USER_NAME_HERE
   spring.datasource.password= YOUR_PASSWORD_HERE
   spring.jpa.properties.hibernate.dialect=org.hibernate.dialect.MySQL55Dialect
