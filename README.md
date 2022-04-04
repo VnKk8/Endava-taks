@@ -1,6 +1,6 @@
 ***Supermarket API***
 
-**Application that handles **Supermarket purchases** based on Spring Boot. *
+**Application that handles **Supermarket purchases** based on Spring Boot. **
 
 ***Technologies:***
 
@@ -18,7 +18,7 @@ After completion of this guide you need to open IntelliJ and load resources from
 - Go to `resources/application.properties` and add properties e.g.
 
 - ```
-  spring.jpa.hibernate.ddl-auto=create
+  spring.jpa.hibernate.ddl-auto=update
   spring.datasource.url=jdbc:mysql://localhost:3306/supermarket_db?createDatabaseIfNotExist=true
   spring.datasource.username= YOUR_USER_NAME_HERE
   spring.datasource.password= YOUR_PASSWORD_HERE
